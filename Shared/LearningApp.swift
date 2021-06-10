@@ -10,7 +10,7 @@ import SwiftUI
 @main
 struct LearningApp: App {
     let persistenceController = PersistenceController.shared
-var taco = 45
+
     var body: some Scene {
         WindowGroup {
             ContentView()
